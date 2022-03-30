@@ -763,7 +763,7 @@ main a{
         }
     }
 
-    @media (max-width: 344px){
+    @media (max-width: 350px){
         main{
             padding: 0.1rem 0;
             margin: .15rem;
