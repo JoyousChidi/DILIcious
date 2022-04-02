@@ -720,7 +720,7 @@ nav{
 
         .nav-links{
             max-height: 0%;
-            transition: max-height, 2.35s ease-out;
+            transition: max-height, .65s ease-out;
         }
 
          /* toggle menu icon  */
@@ -831,8 +831,8 @@ nav{
 
 
     @media (max-width: 385px){  
-        .wrapper-title{
-            margin-bottom: 8rem;
+        .foof-content{
+		margin-top: 1rem;
         }        
 
     }
